@@ -18,13 +18,14 @@
 }
 
  body {
-    background-color: var(--black);
+    background-color: var(--main-color);
   
-    background: url("./img/fundo\ 3\ melhor.jpg") no-repeat center center fixed;
+    background: url("./img/fundo\ 3\ melhor.jpg") 
+    no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
+    background-size: center;
  }
 
  section {
