@@ -20,7 +20,7 @@
  body {
     background-color: var(--main-color);
   
-     background-image: url("./img/fundo\ 3\ melhor.jpg") no-repeat center center;
+     background-image: url("img/fundo3melhor.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -377,4 +377,5 @@
     }
 
 }
+
 
