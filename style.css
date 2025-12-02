@@ -20,8 +20,7 @@
  body {
     background-color: var(--main-color);
   
-    background: url("./img/fundo\ 3\ melhor.jpg") 
-    no-repeat center center;
+    background: url("./img/fundo\ 3\ melhor.jpg") no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -376,4 +375,5 @@
     .contact .row .form-contato {
         flex: 1 1 100%;
     }
+
 }
